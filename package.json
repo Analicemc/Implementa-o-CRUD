@@ -1,0 +1,11 @@
+{
+  "name": "crud",
+  "version": "1.0.0",
+  "description": "Tinha como objetivo realizar uma aplicação completa de cadastro de funcionários, no estilo CRUD, acrônimo de create, retrieve, update e delete usando back-end fornecido.",
+  "main": "main.js",
+  "scripts": {
+    "start": "json-server --watch db.json"
+  },
+  "author": "",
+  "license": "ISC"
+}
