@@ -1,24 +1,6 @@
 {
   "employees": [
     {
-      "id": 1,
-      "name": "Bartolemo Lucas",
-      "salary": 3800,
-      "role_id": 9
-    },
-    {
-      "id": 2,
-      "name": "Sande Clift",
-      "salary": 9200,
-      "role_id": 10
-    },
-    {
-      "id": 3,
-      "name": "Dunc Grazier",
-      "salary": 5000,
-      "role_id": 6
-    },
-    {
       "id": 4,
       "name": "Alex Gladwin",
       "salary": 8800,
